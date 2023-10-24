@@ -33,3 +33,4 @@ Sinta-se à vontade para entrar em contato comigo se você quiser discutir colab
 
 Agradeço por visitar a minha página. Espero que você tenha gostado do que viu e que possamos nos conectar em breve.
 
+<p> <img src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/programmer.gif" /></p>
