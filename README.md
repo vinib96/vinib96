@@ -1,16 +1,35 @@
-### Hi there 👋
+Olá! Eu sou Vinicius Bueno, um estudante de desenvolvimento web apaixonado por criar coisas incríveis na web. Atualmente, estou empenhado em aprender e aprimorar minhas habilidades para me tornar um desenvolvedor web de sucesso.
 
-<!--
-**vinib96/vinib96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Minha Jornada
 
-Here are some ideas to get you started:
+- 📚 Atualmente estou cursando na TripleTen.
+- 💼 Trabalho em diversos projetos web, incluindo sites, aplicativos e ferramentas.
+- 🌐 Sempre em busca de aprender novas tecnologias e tendências do desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- **Linguagens de Programação**: HTML, CSS, JavaScript
+- **Bibliotecas e Frameworks**: React, Bootstrap
+- **Ferramentas de Desenvolvimento**: Visual Studio Code, Git
+- **Outras Habilidades**: Design Responsivo, SEO Básico
+
+## Projetos
+
+Aqui estão alguns dos meus projetos recentes:
+
+- ["De pátria para pátria"]([URL_do_Projeto_1](https://vinib96.github.io/web_project_homeland/)) - Projeto utlizando ferramentas avançadas de HTML e CSS com foco na responsividade da página.
+- ["Ao redor dos EUA"](https://vinib96.github.io/web_project_around/) - Projeto incial utlizando a linguagem de programação JavaScript.
+
+
+## Entre em Contato
+
+- GitHub: [vinib96](https://github.com/vinib96)
+- LinkedIn: [Vinícius Corrêa da Silva Bueno](https://www.linkedin.com/in/vin%C3%ADcius-corr%C3%AAa-da-silva-bueno-261136284/)
+- Email: vi-pr@hotmail.com
+
+Sinta-se à vontade para entrar em contato comigo se você quiser discutir colaborações, projetos ou apenas bater um papo sobre desenvolvimento web. Estou sempre aberto a novas oportunidades e desafios.
+
+## Obrigado por Visitar!
+
+Agradeço por visitar a minha página. Espero que você tenha gostado do que viu e que possamos nos conectar em breve.
+
