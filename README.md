@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="460" height="300" src="https://art.pixilart.com/sr2e64b83aa0a6d.gif">
+</p>
 Olá! Eu sou Vinicius Bueno, um estudante de desenvolvimento web apaixonado por criar coisas incríveis na web. Atualmente, estou empenhado em aprender e aprimorar minhas habilidades para me tornar um desenvolvedor web de sucesso.
 
 ## Minha Jornada
@@ -32,5 +35,5 @@ Sinta-se à vontade para entrar em contato comigo se você quiser discutir colab
 ## Obrigado por Visitar!
 
 Agradeço por visitar a minha página. Espero que você tenha gostado do que viu e que possamos nos conectar em breve.
-
-<p> <img src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/programmer.gif" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/programmer.gif" />
+</p>
