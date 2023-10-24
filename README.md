@@ -17,7 +17,7 @@ Olá! Eu sou Vinicius Bueno, um estudante de desenvolvimento web apaixonado por 
 
 Aqui estão alguns dos meus projetos recentes:
 
-- ["De pátria para pátria"]([URL_do_Projeto_1](https://vinib96.github.io/web_project_homeland/)) - Projeto utlizando ferramentas avançadas de HTML e CSS com foco na responsividade da página.
+- ["De pátria para pátria"](https://vinib96.github.io/web_project_homeland) - Projeto utlizando ferramentas avançadas de HTML e CSS com foco na responsividade da página.
 - ["Ao redor dos EUA"](https://vinib96.github.io/web_project_around/) - Projeto incial utlizando a linguagem de programação JavaScript.
 
 
