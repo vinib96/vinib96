@@ -22,8 +22,7 @@ Aqui estão alguns dos meus projetos recentes:
 
 - ["Aprendendo a aprender"](https://vinib96.github.io/web_project_1_ptbr/)- Projeto utlizando técnicas de animação, transição e posicionamento com flexbox.
 - ["De pátria para pátria"](https://vinib96.github.io/web_project_homeland/)- Projeto utlizando ferramentas avançadas de HTML e CSS com foco na responsividade da página e css grid.
-- ["Ao redor dos EUA"](https://vinib96.github.io/web_project_around/) - Projeto utlizando a linguagem de programação JavaScript.
-- ["Ao redor dos EUA"](https://vinib96.github.io/web_project_around_react/) - Projeto utlizando a biblioteca React.
+- ["Ao redor dos EUA"](https://vinib96.github.io/web_project_around_react/) - Projeto utlizando  a linguagem de programação JavaScript e a biblioteca React.
 
 
 ## Entre em Contato
