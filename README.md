@@ -1,11 +1,11 @@
 <p align="center">
   <img width="460" height="300" src="https://art.pixilart.com/sr2e64b83aa0a6d.gif">
 </p>
-Olá! Eu sou Vinicius Bueno, um estudante de desenvolvimento web apaixonado por criar coisas incríveis na web. Atualmente, estou empenhado em aprender e aprimorar minhas habilidades para me tornar um desenvolvedor web de sucesso.
+Olá! Eu sou Vinicius Bueno, um estudante de Desenvolvimento Web apaixonado por criar coisas incríveis na internet. Atualmente, estou empenhado em aprender e aprimorar minhas habilidades para me tornar um programador de sucesso. 
 
 ## Minha Jornada
-
-- 📚 Atualmente estou cursando na TripleTen.
+- 📚 Sou formado em Administração pela Universidade de São Paulo (USP), onde tive o primeiro contato com o mundo da programação.
+- 📚 Atualmente estou participando do bootcamp de Desenvolvimento Web da TripleTen.
 - 💼 Trabalho em diversos projetos web, incluindo sites, aplicativos e ferramentas.
 - 🌐 Sempre em busca de aprender novas tecnologias e tendências do desenvolvimento web.
 
