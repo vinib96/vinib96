@@ -12,9 +12,9 @@ Olá! Eu sou Vinicius Bueno, um estudante de Desenvolvimento Web apaixonado por 
 ## Habilidades
 
 - **Linguagens de Programação**: HTML, CSS, JavaScript
-- **Bibliotecas e Frameworks**: React, Bootstrap
+- **Bibliotecas e Frameworks**: React, Express
 - **Ferramentas de Desenvolvimento**: Visual Studio Code, Git
-- **Outras Habilidades**: Design Responsivo, SEO Básico
+- **Outras Habilidades**: Design Responsivo, SEO Básico, Node.js
 
 ## Projetos
 
@@ -28,7 +28,7 @@ Aqui estão alguns dos meus projetos recentes:
 ## Entre em Contato
 
 - GitHub: [vinib96](https://github.com/vinib96)
-- LinkedIn: [Vinícius Corrêa da Silva Bueno](https://www.linkedin.com/in/vin%C3%ADcius-corr%C3%AAa-da-silva-bueno-261136284/)
+- LinkedIn: [Vinícius Corrêa da Silva Bueno](https://www.linkedin.com/in/viniciuscsbueno/)
 - Email: vi-pr@hotmail.com
 
 Sinta-se à vontade para entrar em contato comigo se você quiser discutir colaborações, projetos ou apenas bater um papo sobre desenvolvimento web. Estou sempre aberto a novas oportunidades e desafios.
